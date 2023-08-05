@@ -1,8 +1,7 @@
 import requests
 import json
 
-PAGE_TOKEN="EAAmY6DYHXGQBOwptZAYr6UACeN2IjlrUVaZBGTKYyIIeQt4C9tt7Wwu93ZAA4YI9MZBOJ7a6YnUduynNbLjhA3c7NUp470jXeZB7hmISElM5dUmXe83ZBqourzvH7tZCl8EnBXFq8ApKZBEgZCgLQBr9CJhZBfgzCFzCVOPUj3o4qJPyhzZAjO6K0fVWC4BSpissfOO"
-IGSID_TOMAS="6881495478568491"
+
 
 class Instagram:
     def __init__(self, access_token, version="v17.0"):
